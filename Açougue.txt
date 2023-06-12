@@ -1,0 +1,12 @@
+
+|Fabricante: MONTANA| Preco:  45.99| Peso: 1KG| Estoque: 100| Tipo de Corte: Alcatra| Temperado: Sem tempero| Classificação: Primeira| [Bovina] 
+
+|Fabricante: Beef Club| Preco:  69.9| Peso: 1KG| Estoque: 400| Tipo de Corte: Picanha| Temperado: Sem tempo| Classificação: Primeira| [Bovina] 
+
+|Fabricante: Friboi| Preco:  22.99| Peso: 1KG| Estoque: 200| Tipo de Corte: Costela| Temperado: Temperado| Classificação: Segunda| [Suína] 
+
+|Fabricante: Lar| Preco:  5.95| Peso: 500g| Estoque: 1000| Tipo de Corte: Coxa com sobrecoxa| Temperado: Temperado| [Frango] 
+
+|Fabricante: MAR ALTO| Preco:  99.9| Peso: 1KG| Estoque: 300| Tipo de Corte: Não possui| Local: Matinhos| Tipo do Peixe: Bacalhau| [Peixes] 
+
+|Fabricante: Friboi| Preco:  39.99| Peso: 1kg| Estoque: 100| Tipo de Corte: Picanha| Temperado: nao| Classificação: primeira| [Bovina] 
